@@ -44,7 +44,7 @@
 
 // 1 = animated test/demo
 // 0 = real data from INAV
-#define TEST_MODE 0
+#define TEST_MODE 1
 
 // ------------------------- DISPLAY -------------------------
 
